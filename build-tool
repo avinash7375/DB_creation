@@ -1,0 +1,8 @@
+build:
+    go build -o bin/database ./cmd/database
+
+test:
+    go test ./...
+
+run:
+    ./bin/database
