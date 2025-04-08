@@ -2,7 +2,7 @@ This is a note where I will put my data over and release them as projects and pa
 
 ## what's the general idea?
 
-### I'l put everything on the line to configurate every patch.
+### I'll put everything on the line to configurate every patch.
 
 #### My guidelines in 1 sentence -
 --> I'm a human with post possibilities, but you've to fetch it out of me.<br>
