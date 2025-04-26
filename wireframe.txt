@@ -1,0 +1,3 @@
+Wireframe
+Tool - cli application for managing your database.
+will have custom commands
